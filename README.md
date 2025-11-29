@@ -13,6 +13,14 @@ Both systems answer questions about Insurellm using a knowledge base of 76 markd
 ### langChain Retrival
 ![tapimage](https://github.com/AhmedMostafa3m/RAG_Langchain_vs_advanced_technics/blob/85b453e726cd089dd5577df8ccd5d601c0d189dc/Images/retrival_Eval.png)
 
+### langChain Answer
+![tapimage](https://github.com/AhmedMostafa3m/RAG_Langchain_vs_advanced_technics/blob/3cd99a3c2277d612853e5e45c1d2df0d174e5ca5/Images/Answer_Eval.png)
+
+### Custom Retrival
+![tapimage]()
+
+### Custom Answer
+![tapimage]()
 
 ## 🎯 Key Improvements
 
@@ -334,5 +342,6 @@ For questions or feedback, please open an issue or reach out on [LinkedIn](https
 ---
 
 **Note**: This is an educational project demonstrating RAG system design and evaluation. The company "Insurellm" and its knowledge base are fictional.
+
 
 
