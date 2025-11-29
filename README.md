@@ -10,6 +10,9 @@ This project implements and evaluates two different RAG systems:
 2. **Advanced Implementation** (`pro_implementation/`) - Custom RAG with sophisticated techniques
 
 Both systems answer questions about Insurellm using a knowledge base of 76 markdown documents, but the advanced implementation achieves significantly better retrieval and answer quality through intelligent chunking, query optimization, and reranking.
+### langChain Retrival
+![tapimage](https://github.com/AhmedMostafa3m/RAG_Langchain_vs_advanced_technics/blob/85b453e726cd089dd5577df8ccd5d601c0d189dc/Images/retrival_Eval.png)
+
 
 ## 🎯 Key Improvements
 
@@ -331,4 +334,5 @@ For questions or feedback, please open an issue or reach out on [LinkedIn](https
 ---
 
 **Note**: This is an educational project demonstrating RAG system design and evaluation. The company "Insurellm" and its knowledge base are fictional.
+
 
