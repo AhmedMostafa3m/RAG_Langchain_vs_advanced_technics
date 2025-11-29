@@ -149,7 +149,8 @@ The advanced RAG system introduces several enhancements over the basic LangChain
 ## 📁 Project Structure
 
 ```
-week5/
+RAG_Langchain_vs_advanced_technics/
+|
 ├── implementation/              # Basic LangChain RAG
 │   ├── ingest.py               # Document ingestion with RecursiveCharacterTextSplitter
 │   └── answer.py               # Simple retrieval and answering
@@ -160,8 +161,9 @@ week5/
 │
 ├── evaluation/                  # Evaluation framework
 │   ├── eval.py                 # Retrieval and answer evaluation metrics
-│   └── test.py                 # Test question loader
-│
+│  └── test.py                  # Test question load
+|
+|── app.py                 
 ├── evaluator.py                # Gradio UI for running evaluations
 ├── knowledge-base/             # 76 markdown documents about Insurellm
 ├── vector_db/                  # Basic implementation vector store
@@ -342,6 +344,7 @@ For questions or feedback, please open an issue or reach out on [LinkedIn](https
 ---
 
 **Note**: This is an educational project demonstrating RAG system design and evaluation. The company "Insurellm" and its knowledge base are fictional.
+
 
 
 
